@@ -3,7 +3,7 @@ body{
 }
 
 .imgBox{
-    background-image: url('/nature.jpg');
+    background-image: url('nature.jpg');
     position: relative;
     /* top: 3px; */
     border-radius: 100px;
